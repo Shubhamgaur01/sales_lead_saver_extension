@@ -1,0 +1,50 @@
+body{
+	margin: 0px;
+	padding: 10px;
+	min-width: 500px;
+}
+
+
+input{
+	padding: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	background: lightblue;
+	border: 1px solid grey;
+	font-size: 18px;
+}
+
+button{
+	background: #5f9341;
+	margin-top: 10px;
+	padding: 10px 15px;
+	border: 1px solid grey;
+	color: white;
+	font-weight: bolder;
+	font-size: 18px;
+}
+
+#delete_btn{
+	background: white;
+	color: #5f9341;
+	margin-left: 20px;
+}
+
+#save_tab{
+	margin-left: 20px;
+	padding: 10px 30px;
+}
+
+ul{
+	margin-top: 20px;
+	list-style: none;
+	padding-left: 0px;
+}
+li{
+	color: #5f9341;
+	margin-top: 5px;
+}
+li a{
+	color: #5f9341;
+	font-size: 20px;
+}
